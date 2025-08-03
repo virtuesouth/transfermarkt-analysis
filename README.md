@@ -60,6 +60,18 @@ However, a few notable insights emerge:
 
 These trends suggest that positions requiring less continuous physical exertion and more tactical awareness (e.g., goalkeepers and some attackers) may be more resilient to age-related declines. Their roles allow them to retain high market value even as their physical peak passes.
 
+![Figure 3](figures/Figure_3.png)
 
+Despite being one of the top five clubs in terms of total transfer spending, Manchester United stands out for having made the most expensive individual transfers on average. However, this financial investment has not translated into significant sporting success over the past decade, raising questions about the club’s transfer efficiency and long-term strategy.
+
+[Sky Sports. (2023). Man Utd’s decade in the dark: £1.45bn spent, five managers and no title.](https://www.skysports.com/football/story-telling/11095/12860167/man-utds-decade-in-the-dark)
+
+![Figure 4](figures/Figure_4.png)
+
+Benfica, Monaco, Ajax, and Dortmund stand out as the most profitable selling clubs in Europe, generating massive revenues through player transfers. 
+
+- Among them, Benfica has arguably achieved the most consistent success, maintaining domestic dominance and regular appearances in the UEFA Champions League knockout stages. 
+- Monaco won **Ligue 1 in 2016–17**, ending PSG’s streak, and reached the Champions League quarter-finals the same season, but struggled to maintain dominance in subsequent years amid PSG’s dominance. While Monaco qualified for Europe consistently, their **sustained success remains limited** compared to Benfica or Ajax.
+- While Dortmund has enjoyed periods of strong performance both in the Bundesliga and in Europe, their progress has often been overshadowed by Bayern Munich’s sustained superiority.
 
 
