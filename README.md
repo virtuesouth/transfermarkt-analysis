@@ -4,6 +4,7 @@ This project explores football player transfer data from **Transfermarkt** using
 
 The goal was to uncover patterns in player transfers, evaluate positional trends, and explore club spending vs. success dynamics over the last 10 years.
 
+> _Further analysis may be added in the future by combining this dataset with additional sources such as player performance metrics, team rankings, or financial data, to explore deeper insights into transfer efficiency and sporting success._
 ---
 
 ## 🗂 Project Structure
@@ -21,16 +22,13 @@ The goal was to uncover patterns in player transfers, evaluate positional trends
 
 ## 🔍 Dataset Source
 
-- 📦 **Source**: [Kaggle – Transfermarkt Data](https://www.kaggle.com/datasets/josephvm/transfermarkt-data)  
-- 🧮 **Size**: 60K+ transfers, 25K+ players  
+- 📦 **Source**: [Kaggle – Transfermarkt Data](https://www.kaggle.com/datasets/josephvm/transfermarkt-data)   
 - 🕒 **Time Frame**: Filtered to last 10 years (2015–2025)
 
 ---
 
 ## ⚙️ Technologies Used
 
-- PySpark for distributed data processing  
-- Pandas for local aggregations  
-- Matplotlib & Seaborn for plotting  
-- Git + GitHub for version control  
+- PySpark for distributed data processing   
+- Pandas & Matplotlib & Seaborn for plotting  
 - Project structure inspired by Medallion (Bronze/Silver/Gold)
